@@ -1,6 +1,4 @@
 # Conditional-Data-Pipeline-Orchestration-Azure-Data-Factory-
-# Conditional Data Pipeline Orchestration (Azure Data Factory)
-# Conditional Data Pipeline Orchestration (Azure Data Factory)
 
 ## 📌 Project Overview
 This project demonstrates how to design a **conditional ETL pipeline** in **Azure Data Factory (ADF)** to copy customer and product data from an on‑premises MySQL database into **Azure Data Lake Storage (ADLS)**.  
